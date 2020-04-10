@@ -1,0 +1,435 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .hero-texts h1 {
+        font-size: 28px; 
+        line-height: 40px; 
+    }
+    .hero-texts {
+        margin-left: 10px;
+    }
+    .hero-texts p {
+        font-size: 12px; 
+        line-height: 20px;
+    }
+    .section-title h2 {
+        font-size: 32px; 
+    }
+    .section-video {
+        padding-bottom: 50px;
+    }
+    .subs-area .hero-texts h1 {
+        font-size: 27px; 
+        line-height: 30px;
+    }
+    .subs-area .hero-texts {
+        margin-left: 10px;
+    }
+    .subs-area .hero-texts p {
+        font-size: 10px; 
+        line-height: 20px;
+    }
+    div#v-pills-tab a span {
+        display: block;
+        text-transform: capitalize;
+        font-size: 14px;
+        font-weight: 400;
+        color: #878B90;
+        line-height: 16px;
+        padding-top: 10px;
+    }
+    div#v-pills-tab a { 
+        font-size: 10px; 
+    }
+    .tab-pane p {
+        font-size: 13px; 
+    }
+    .tab-pane ul li { 
+        font-size: 13px; 
+    }
+    .tab-pane ul li i.far.fa-check { 
+        top: -2px;
+    }
+    .comment-box.tBox {
+        margin-top:  0px;
+    }
+    .comment-box { 
+        margin-bottom: 30px;
+    }
+    .download-area.subs-area .hero-texts h1 {
+        font-size: 26px;
+        line-height: 27px;
+    }
+    .download-area.subs-area .hero-texts p {
+        color: #DBE4F1;
+        font-size: 10px;
+        font-family: InterRegular;
+        padding-bottom: 0;
+    }
+    .footer-area p {
+        font-size: 12px; 
+    }
+
+    .footer-area ul li a { 
+        font-size: 12px; 
+        margin: 0 10px;
+    } 
+    .footer-area .black-box ul li a {
+        margin: 0 5px;
+        font-size: 17px;
+    }
+    .footer-area {
+        height: 100px; 
+    } 
+    .comment-box { 
+        padding: 45px; 
+    }
+    .single-benf-blk {
+        position: relative;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        margin-bottom: 30px;
+        border-radius: 10px;
+        -webkit-transition: .3s;
+        transition: .3s;
+        text-align: center;
+    }
+    .single-benf-blk span {
+        position: unset;
+        left: 20px;
+        top: 13px;
+        width: 50px;
+    }
+    .single-benf-blk h4 {
+        font-size: 18px;
+        color: #222D3D;
+        font-weight: 600;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+    .single-benf-blk p {
+        font-size: 15px;
+        color: #878B90;
+        font-weight: 500;
+        line-height: 24px;
+    }
+    .section-video h2 { 
+        font-size: 32px; 
+    }
+    .section-video p { 
+        font-size: 16px; 
+        line-height: 26px;
+    }
+    .user-content p {
+        font-size: 15px; 
+    }
+    .comment-box p {
+        font-size: 16px; 
+    }
+    .video-blk {
+        padding: 0;
+        margin: 0;
+        max-width: 500px;
+        margin: auto;
+    }
+    .download-area.subs-area { 
+        padding: 150px 0;
+        padding-bottom: 100px;
+    }
+
+
+
+
+
+
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .hero-book-img {
+        width: 200px;
+        margin: auto;
+    }
+    .hero-book-img img {
+        width: 100%;
+    }
+    .hero-texts {
+        max-width: 100%;
+        margin-left: 0;
+        margin-top: 50px;
+    }
+    .video-blk {
+        padding: 0;
+        margin: 0;
+        margin-top: 30px;
+    }
+    .user-img {
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    .comment-box {
+        margin-bottom: 30px;
+    }
+    .comment-box.tBox {
+        margin-bottom: 0;
+    }
+    .download-area.subs-area .hero-texts h1 { 
+        font-size: 30px;
+        line-height: 32px; 
+    }
+    .download-area.subs-area .hero-texts p { 
+        font-size: 14px; 
+    }
+    .footer-area {
+        text-align: center;
+    }
+    .black-box.pt-30 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .black-box.pt-30 ul{
+        text-align: center;
+    }
+    .privacy-text.pt-30 {
+        padding-top: 5px;
+    }
+    .footer-area ul li a {
+        margin: 0 5px;
+        font-size: 12px;
+    }
+    .hero-texts h1 {
+        font-size: 20px; 
+        line-height: 26px; 
+    }
+    .hero-texts p {
+        font-size: 13px; 
+        line-height: 20px;
+        padding-bottom: 15px;
+    }
+    .section-title h2 {
+        font-size: 22px;
+        color: #000;
+        font-weight: 600;
+    }
+    .section-title h2 span { 
+        font-size: 16px; 
+    }
+    .single-benf-blk p {
+        font-size: 13px;
+        color: #878B90;
+        font-weight: 500;
+        line-height: 20px;
+    }
+    .section-title p { 
+        font-size: 12px; 
+    }
+    .section-video h2 { 
+        font-size: 24px; 
+    }
+    .section-video p {
+        color: #323232;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 20px;
+    }
+    .section-video a {
+        color: #0F3D33;
+        font-size: 12px;
+        font-weight: 600;
+        background: #e6fbf7;
+        padding: 10px 15px;
+        display: inline-block;
+        margin-top: 10px;
+    }
+    .subs-area .row.pdng {
+        padding: 0;
+    }
+    .subs-area .hero-texts h1 {
+        color: #000;
+        font-size: 22px;
+        line-height: 26px;
+    }
+    div#v-pills-tab a span {
+        display: block;
+        text-transform: capitalize;
+        font-size: 16px;
+        font-weight: 400;
+        color: #878B90;
+        line-height: 5px;
+        padding-top: 10px;
+    }
+    .tab-pane {
+        padding: 20px; 
+    }
+    .tab-pane p {
+        font-size: 12px; 
+    }
+    .tab-pane ul li { 
+        font-size: 12px; 
+    }
+    .user-content p {
+        font-size: 12px; 
+    }
+    .comment-box { 
+        padding: 25px; 
+    }
+    .comment-box p {
+        font-size: 12px; 
+    }
+    
+    .comment-box.tBox2 { 
+        margin-bottom: 20px;
+    }
+    .comment-box.tBox{
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+    .site-menu ul li a {
+        color: #DBE4F1;
+        font-size: 12px;
+        font-weight: 500;
+        padding: 10px 7px;
+        display: block;
+    }
+    .footer-area p {
+        margin: 0;
+        padding-bottom: 0px;
+        font-size: 12px;
+    }
+    .download-area.subs-area { 
+        padding: 150px 0;
+        padding-bottom: 100px;
+    }
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .hero-texts h1 {
+        font-size: 30px; 
+        line-height: 32px; 
+    }
+    .hero-texts p {
+        font-size: 13px; 
+        line-height: 22px;
+        padding-bottom: 30px;
+    }
+    .section-title h2 {
+        font-size: 27px; 
+    }
+    .subs-area .hero-texts h1 {
+        color: #000;
+        font-size: 27px;
+        line-height: 32px;
+    }
+    .section-title h2 {
+        font-size: 38px;
+        color: #000;
+        font-weight: 600;
+    }
+    .section-title h2 span { 
+        font-size: 18px; 
+    }
+    .single-benf-blk p {
+        font-size: 16px;
+        color: #878B90;
+        font-weight: 500;
+        line-height: 28px;
+    }
+    .section-title p { 
+        font-size: 18px; 
+    }
+    .section-video h2 { 
+        font-size: 38px; 
+    }
+
+    .section-video p {
+        color: #323232;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 29px;
+    }
+    .section-video a {
+        color: #0F3D33;
+        font-size: 16px;
+        font-weight: 600;
+        background: #e6fbf7;
+        padding: 15px 26px;
+        display: inline-block;
+        margin-top: 22px;
+    }
+
+    .subs-area .row.pdng {
+        padding: 0 60px;
+    }
+    .subs-area .hero-texts h1 {
+        color: #000;
+        font-size: 38px;
+        line-height: 50px;
+    }
+    div#v-pills-tab a span {
+        display: block;
+        text-transform: capitalize;
+        font-size: 21px;
+        font-weight: 400;
+        color: #878B90;
+        line-height: 28px;
+        padding-top: 10px;
+    }
+    .tab-pane {
+        padding: 50px; 
+    }
+    .tab-pane p {
+        font-size: 18px; 
+    }
+    .tab-pane ul li { 
+        padding-top: 18px; 
+    }
+    .user-content p {
+        font-size: 18px; 
+    }
+
+    .comment-box { 
+        padding: 50px; 
+    }
+    .comment-box p {
+        font-size: 18px; 
+    }
+
+    .comment-box.tBox {
+        margin-bottom: 30px;
+        margin-top: 0;
+    }
+    .site-menu ul li a {
+        color: #DBE4F1;
+        font-size: 14px;
+        font-weight: 500;
+        padding: 10px 24px;
+        display: block;
+    }
+    .footer-area p {
+        margin: 0;
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
+
+
+
+}

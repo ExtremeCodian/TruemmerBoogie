@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="34px" viewBox="0 0 42 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="96.1326542%" y1="68.3292341%" x2="3.72055045%" y2="22.9705225%" id="linearGradient-1">
+            <stop stop-color="#8731E8" offset="0%"></stop>
+            <stop stop-color="#4528DC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Book-landing_v2" transform="translate(-471.000000, -2035.000000)">
+            <g id="CTA" transform="translate(454.000000, 1760.000000)">
+                <g id="BTN-Copy" transform="translate(0.000000, 247.000000)">
+                    <g id="Group-19" transform="translate(18.000000, 29.000000)">
+                        <path d="M16,25.5 L1.94987988,25.5755985 C0.959879943,25.5755985 0.149879991,24.7655985 0.149879991,23.7755986 L0.149879991,1.94999988 C0.149879991,0.959399943 0.959879943,0.149999991 1.94987988,0.149999991 L33.134878,0.149999991 C34.124878,0.149999991 34.9348779,0.959399943 34.9348779,1.94999988 L30,-2.27373675e-13 L16,25.5 Z" id="Stroke-3" fill="url(#linearGradient-1)"></path>
+                        <path d="M38.8148977,31.0564181 L39.4724976,22.8064186 C39.4724976,19.8568188 37.2224978,19.4068188 37.2224978,19.4068188 L30.3224982,18.2668189 L30.3224982,11.5072193 C30.3224982,10.5172194 29.4374982,9.70721942 28.4474983,9.70721942 C27.4568984,9.70721942 26.5724984,10.5172194 26.5724984,11.5072193 L26.5724984,24.6460185 L23.2850986,21.3628187 C22.5890987,20.6596188 21.3446987,20.7508188 20.6414988,21.4468187 C19.9370988,22.1434187 19.8326988,23.3866186 20.5286988,24.0910186 L27.7688983,31.3444181" id="Stroke-1" stroke="#475257" stroke-width="1.49999991" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M18.4558789,25.5755985 L1.94987988,25.5755985 C0.959879943,25.5755985 0.149879991,24.7655985 0.149879991,23.7755986 L0.149879991,1.94999988 C0.149879991,0.959399943 0.959879943,0.149999991 1.94987988,0.149999991 L33.134878,0.149999991 C34.124878,0.149999991 34.9348779,0.959399943 34.9348779,1.94999988 L34.9348779,16.412999" id="Stroke-3" stroke="#475257" stroke-width="1.49999991" stroke-linejoin="round"></path>
+                        <path d="M6.87191959,0.17051999 L6.87191959,25.5547185" id="Stroke-5" stroke="#475257" stroke-width="1.49999991" stroke-linejoin="round"></path>
+                        <path d="M3.56777979,11.5341593 L3.56777979,14.1933592" id="Stroke-7" stroke="#475257" stroke-width="1.49999991" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M11.9238593,4.76777972 L30.0666582,4.76777972" id="Stroke-9" stroke="#475257" stroke-width="1.49999991" stroke-linecap="round"></path>
+                        <path d="M11.9238593,8.83415947 L24.3552585,8.83415947" id="Stroke-11" stroke="#475257" stroke-width="1.49999991" stroke-linecap="round"></path>
+                        <path d="M11.9238593,12.9017392 L23.2548586,12.9017392" id="Stroke-13" stroke="#475257" stroke-width="1.49999991" stroke-linecap="round"></path>
+                        <path d="M11.9238593,16.966979 L23.2548586,16.966979" id="Stroke-15" stroke="#475257" stroke-width="1.49999991" stroke-linecap="round"></path>
+                        <path d="M11.9238593,21.0345587 L17.408459,21.0345587" id="Stroke-17" stroke="#475257" stroke-width="1.49999991" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

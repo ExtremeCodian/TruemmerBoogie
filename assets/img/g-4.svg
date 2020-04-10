@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="30px" viewBox="0 0 46 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FEE100" offset="0%"></stop>
+            <stop stop-color="#FACB00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Book-landing_v2" transform="translate(-815.000000, -2033.000000)">
+            <g id="CTA" transform="translate(454.000000, 1760.000000)">
+                <g id="BTN-Copy-3" transform="translate(347.000000, 247.000000)">
+                    <g id="Group-5" transform="translate(15.000000, 27.000000)">
+                        <path d="M4.28087974,21.8601587 L4.28087974,2.73875984 C4.28087974,1.31495992 5.44607968,0.149759991 6.86867959,0.149759991 L37.1614778,0.149759991 C38.5864777,0.149759991 39.7516776,1.31495992 39.7516776,2.73875984 L39.7516776,21.8601587" id="Stroke-1" fill="url(#linearGradient-1)"></path>
+                        <path d="M4.28087974,21.8601587 L4.28087974,2.73875984 C4.28087974,1.31495992 5.44607968,0.149759991 6.86867959,0.149759991 L37.1614778,0.149759991 C38.5864777,0.149759991 39.7516776,1.31495992 39.7516776,2.73875984 L39.7516776,21.8601587" id="Stroke-1" stroke="#475257" stroke-width="1.49999991" stroke-linejoin="round"></path>
+                        <text id="*.pdf" font-family=".AppleSystemUIFont" font-size="7" font-weight="normal" fill="#222D3D">
+                            <tspan x="13" y="15">*.pdf</tspan>
+                        </text>
+                        <path d="M0.149999991,24.7124985 C0.149999991,24.7124985 0.904799946,28.1378983 3.4103998,28.1378983 L40.6229976,28.1378983 C43.1291974,28.1378983 43.8839974,24.7124985 43.8839974,24.7124985 L0.149999991,24.7124985 Z" id="Stroke-3" stroke="#475257" stroke-width="1.49999991" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

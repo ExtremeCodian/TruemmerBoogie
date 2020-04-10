@@ -1,0 +1,573 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+/* Base CSS */
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+a:focus { outline: 0 solid }
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 15px;
+  color: #1B1B21;
+}
+body {
+  color: #545051;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+@font-face {
+    font-family:RusticLoveTattoo;
+    src: url(../fonts/RusticLoveTattoo.otf);
+}
+ 
+@font-face {
+  font-family:InterRegular;
+  src: url(../fonts/Inter-Regular.otf);
+}
+@font-face {
+  font-family:InterSemiBold;
+  src: url(../fonts/Inter-SemiBold.otf);
+}
+@font-face {
+  font-family:InterBold;
+  src: url(../fonts/Inter-Bold.otf);
+}
+@font-face {
+  font-family:InterBlack;
+  src: url(../fonts/Inter-Black.otf);
+}
+
+.selector-for-some-widget {
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+a:hover { text-decoration: none }
+ul{
+  padding: 0;
+  margin: 0;
+}
+li{
+  list-style: none;
+}
+.section-video a:hover {
+  background: #fbd000;
+  transition: .3s;
+  color: #fff;
+}
+.section-video a {
+  transition: .3s;
+}
+/* Header bar section start */
+
+
+.header-top-area {
+  padding: 20px 0;
+}
+.site-menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: right;
+}
+.site-menu ul li {
+  display: inline-block;
+}
+.site-menu ul li a {
+  color: #DBE4F1;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 24px;
+  display: block;
+}
+ 
+.hero-texts h1 {
+	font-size: 46px;
+	color: #fff;
+	font-weight: 700;
+  line-height: 62px;
+  font-family: 'Montserrat', sans-serif;
+}
+.hero-texts {
+	max-width: 500px;
+	margin-left: 60px;
+}
+.hero-texts p {
+  font-size: 20px;
+  color: #DBE4F1;
+  font-weight: 500;
+  line-height: 31px;
+}
+.subs-form form input {
+  width: 100%;
+  font-size: 18px;
+  color: #878B90;
+  border: none;
+  height: 50px;
+  padding: 0 10px;
+  border-radius: 3px;
+  text-align: center;
+}
+.subs-form form button {
+  width: 100%;
+  height: 50px;
+  border: none;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 11px;
+  background: #efd358;
+  color: #222D3D;
+  border-radius: 3px;
+}
+.subs-form form p {
+  font-size: 17px;
+  color: #fff;
+  margin-top: 15px;
+}
+.hero-aera {
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+ 
+.header-area {
+  background-size: cover;
+  background-position: center bottom;
+}
+.hero-book-img img {
+	width: 100%;
+}
+
+.hero-book-img img {
+  -webkit-filter: drop-shadow(0 21px 26px #0006);
+  filter: drop-shadow(0 21px 26px #0006);
+}
+/* Header bar section  END */
+
+
+/* Benefit area css start */
+
+
+
+.benifit-area {
+  padding: 100px 0;
+}
+.section-title {
+	text-align: center;
+	margin-bottom: 65px;
+}
+.section-title h2 {
+  font-size: 38px;
+  color: #000;
+  font-weight: 600;
+}
+.section-title h2 span {
+  display: block;
+  font-size: 18px;
+  color: #5029DE;
+  margin-bottom: 15px;
+}
+
+.single-benf-blk h4 {
+  font-size: 18px;
+  color: #222D3D;
+  font-weight: 600;
+  margin-bottom: 14px;
+}
+.single-benf-blk p {
+  font-size: 16px;
+  color: #878B90;
+  font-weight: 500;
+  line-height: 28px;
+}
+.single-benf-blk {
+  position: relative;
+  padding-left: 93px; 
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+.single-benf-blk span {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 50px;
+}
+.single-benf-blk:hover {
+ 
+  -webkit-box-shadow: 0 10px 10px #dddddda3;
+ 
+  box-shadow: 0 10px 10px #dddddda3;
+}
+
+
+.gt-started {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.single-gt {
+  border: 1px solid #dee6f2;
+  padding: 15px;
+  border-radius: 3px;
+  position: relative;
+  padding-left: 65px;
+  margin-bottom: 15px;
+}
+.single-gt h4 {
+  color: #222D3D;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.single-gt p {
+  margin: 0;
+  font-size: 14px;
+  color: #878B90;
+  font-weight: 500;
+}
+.gt-ico {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 42px;
+  text-align: center;
+}
+.section-title p {
+  color: #323232;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.section-video h2 {
+	color: #000;
+	font-size: 38px;
+	font-weight: 600;
+	margin-bottom: 22px;
+}
+.section-video p {
+  color: #323232;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 29px;
+}
+.section-video a {
+  color: #0F3D33;
+  font-size: 16px;
+ 
+  font-weight: 600;
+  background: #e6fbf7;
+  padding: 15px 26px;
+  display: inline-block;
+  margin-top: 22px;
+}
+
+.video-blk {
+  position: relative;
+  margin-left: 40px;
+  -webkit-box-shadow: -15px 33px 38px #ddd;
+  box-shadow: -15px 33px 38px #ddd;
+}
+.video-blk img {
+  width: 100%;
+}
+.video-ico {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.video-ico img {
+  width: 93px;
+}
+.subs-area {
+	background: #f6f9fc;
+	padding: 60px 0;
+}
+
+.subs-area .hero-texts h1 {
+  color: #000;
+  font-size: 38px;
+  line-height: 50px;
+}
+.subs-area .hero-texts p {
+  color: #535659;
+}
+.subs-form form p {
+  text-align: center;
+}
+.subs-form .subs-form form input {
+
+	border: 1px solid #e8e8ea;
+}
+.row.pdng {
+	padding: 0 60px;
+}
+
+/* Benefit area css end */
+.books-area {
+  padding: 60px 0;
+}
+.books-area {
+  padding: 60px 0;
+}
+div#v-pills-tab a {
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #878B90;
+  padding-top: 0;
+  padding-bottom: 30px;
+  font-family: InterRegular;
+}
+div#v-pills-tab a span {
+  display: block;
+  text-transform: capitalize;
+  font-size: 21px;
+  font-weight: 400;
+  color: #878B90;
+  line-height: 28px;
+  padding-top: 10px;
+}
+
+div#v-pills-tab a.active {
+  background: transparent;
+  color: #5029DE;
+}
+
+div#v-pills-tab a.active span {
+  color: #222D3D;
+}
+.tab-pane {
+  padding: 50px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0px 4px 12px -6px #00000059;
+}
+.books-area .section-title {
+  margin-bottom: 100px;
+}
+.tab-pane:after {content: "";position: absolute;width: 100%;height: 5px;background: #5029DE;top: 0;left: 0;border-radius: 112px;}
+.tab-pane p {
+  font-size: 18px;
+  color: #323232;
+  padding-bottom: 10px;
+  font-family: InterRegular;
+}
+
+.tab-pane ul {
+  padding: 0;
+}
+.tab-pane ul li {
+  list-style: none;
+  padding-top: 15px;
+  color: #222D3D;
+  font-size: 18px;
+  font-family: InterSemiBold;
+}
+.tab-pane ul li i.far.fa-check {
+  width: 21px;
+  height: 21px;
+  border-radius: 50%;
+  text-align: center;
+  background: #5029de;
+  color: #fff;
+  font-size: 10px;
+  line-height: 22px;
+  margin-right: 5px;
+  position: relative;
+  top: -4px;
+}
+
+/* books-area css END */
+.testimonial-area {
+  padding: 60px 0;
+  padding-bottom: 120px;
+}
+.user-content h5 {
+  font-size: 21px;
+  font-family: InterSemiBold;
+}
+
+.user-content p {
+  font-size: 18px;
+  font-family: InterRegular;
+  color: #323232;
+  padding-bottom: 15px;
+}
+
+.user-content p a {
+  color: #523e32;
+  text-decoration: underline;
+}
+
+.user-content {
+  padding-left: 20px;
+}
+
+/* testimonial-area css END */
+.comment-area {
+  padding: 70px 0;
+  background: #F6F9FC;
+  padding-bottom: 120px;
+}
+.comment-box {
+  background: #fff;
+  padding: 50px;
+  display: block;
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+.comment-box p {
+  font-size: 18px;
+  font-family: InterRegular;
+  color: #1F1F1F;
+  padding: 15px 0;
+}
+
+.comment-box ul li {
+  display: inline-block;
+}
+
+.comment-box ul li a {
+  color: #FA8231;
+}
+
+.comment-box ul li a.unComplete {
+  color: #DBE4F1;
+}
+.user-status img {
+  width: 43px;
+  float: left;
+  margin-right: 20px;
+}
+
+.user-status h4 {
+  width: 175px;
+  float: left;
+  font-size: 18px;
+  font-family: InterSemiBold;
+}
+
+.user-status h4 span {
+  display: block;
+  font-size: 14px;
+  color: #666666;
+  font-family: InterRegular;
+  padding-top: 5px;
+}
+.comment-box.tBox {
+  margin-top: 30px;
+}
+
+/* comment-arae css END */
+.brandLogo-area {
+  padding: 100px 0;
+}
+.brand-logo-tem img {
+  width: 70% !important;
+  margin: auto;
+}
+/* brandLogo-area css END */
+
+.download-area.subs-area {
+  position: relative;
+  z-index: 2;
+  background: transparent;
+  padding: 150px 0;
+}
+.download-area.subs-area img.full {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: rotate(180deg) rotateY(180deg);
+}
+.download-area.subs-area .hero-texts h1 {
+  color: #fff;
+  font-size: 46px;
+  line-height: 50px;
+  font-family: InterBold;
+}
+.download-area.subs-area .hero-texts p {
+  color: #DBE4F1;
+  font-size: 20px;
+  font-family: InterRegular;
+  padding-bottom: 20px;
+}
+
+/* download-area css END */
+
+.footer-area {
+  height: 130px;
+  display: flex;
+  align-items: center;
+}
+
+.footer-area p {
+  font-size: 14px;
+  font-family: InterRegular;
+  color: #323232;
+}
+
+.footer-area .privacy-text ul {
+  text-align: center;
+}
+.black-box ul{
+  text-align: right;
+}
+.footer-area ul li {
+  display: inline-block;
+}
+
+.footer-area ul li a {
+  display: inline-block;
+  color: #323232;
+  font-size: 14px;
+  font-family: InterRegular;
+  margin: 0 30px;
+}
+
+.footer-area .black-box ul li a {
+  margin: 0 10px;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

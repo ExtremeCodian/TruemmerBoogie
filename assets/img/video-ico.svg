@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="96.1326542%" y1="83.9060089%" x2="3.72055045%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#8731E8" offset="0%"></stop>
+            <stop stop-color="#4528DC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M65.7270345,51.4463772 L45.8044421,38.0830677 C45.6377176,37.9711171 45.4331956,37.9724031 45.2674885,38.0864439 C45.1017814,38.2004847 45,38.4100699 45,38.6366905 L45,65.3633095 C45,65.5899301 45.1017814,65.7995153 45.2674885,65.9135561 C45.4331956,66.0275969 45.6377176,66.0288829 45.8044421,65.9169323 L65.7270345,52.5536228 C65.895736,52.4406321 66,52.2291661 66,52 C66,51.7708339 65.895736,51.5593679 65.7270345,51.4463772 Z" id="path-2"></path>
+        <filter x="-9.5%" y="-7.1%" width="119.0%" height="114.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Book-landing_v2" transform="translate(-982.000000, -2549.000000)">
+            <g id="CONTENT-2" transform="translate(0.000000, 2196.000000)">
+                <g id="IMAGE-1" transform="translate(699.000000, 187.000000)">
+                    <g id="Group-6" transform="translate(283.000000, 166.000000)">
+                        <circle id="Oval" fill="url(#linearGradient-1)" cx="52" cy="52" r="52"></circle>
+                        <g id="Path">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
